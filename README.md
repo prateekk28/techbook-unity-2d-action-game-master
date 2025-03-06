@@ -1,4 +1,4 @@
-# Completed project of “2D action game made with Unity”
+# Completed project of “2D action game made with c#”
 
 ![](https://github.com/baba-s/techbook-unity-2d-action-game/raw/master/game.gif)
 
